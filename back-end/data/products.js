@@ -2,7 +2,7 @@ const products = [
 {
     name: "Jack Daniels No.7",
     imageUrl:
-      "https://unsplash.com/photos/BGnDhfMPOTY",
+      "https://images.unsplash.com/photo-1609790026016-54ace8b92d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=625&q=80",
     description:
       "Born a clear whiskey, the iconic spirit owes its rich colour to the charred oak barrels it matures in. The nose is very smooth with woody and a hint of a fruity undertone before the flavour launches into a mingling of caramel, vanilla and of course the signature notes of oak and fruit.",
     price: 19 ,
